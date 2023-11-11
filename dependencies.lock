@@ -1,0 +1,11 @@
+dependencies:
+  LED_class:
+    component_hash: f03b6f6002d02177f9a4ec7d58d19c4853c370177932b1a3827b998449564024
+    source:
+      git: https://github.com/64030301nam/project-week2
+      path: components/blink
+      type: git
+    version: e52ddeec23dddd707afd2616f7c17a0a8774c792
+manifest_hash: d37d43e7851538dda5ce235207901ff7ade7676beab9db55d456261341b276ec
+target: esp32
+version: 1.0.0
